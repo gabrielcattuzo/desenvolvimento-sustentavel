@@ -133,6 +133,7 @@ body {
     position: relative;
 }
 img {
+  border-radius: var(--border-radius);  
   max-width: 100%;
   height: auto;
   margin: 0 auto;
