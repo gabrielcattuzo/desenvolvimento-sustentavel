@@ -132,6 +132,12 @@ body {
     margin-bottom: var(--space-2xl);
     position: relative;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
 
 .brand {
     display: flex;
@@ -399,6 +405,7 @@ body {
 }
 
 .content-card {
+    text-align: center;
     background: var(--gradient-surface);
     border: 1px solid var(--color-border);
     border-radius: var(--border-radius);

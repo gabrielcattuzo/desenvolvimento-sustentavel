@@ -8,7 +8,6 @@ const pageData = {
     energia: {
         title: 'Green IT',
         description: 'Como a engenharia de computação contribui para sistemas de energia renovável e otimização do consumo energético em data centers e dispositivos.',
-        keywords: ['green computing', 'data centers sustentáveis', 'algoritmos eficientes', 'hardware verde']
     },
     agua: {
         title: 'Gestão e Redução de Consumo de Energia',
@@ -25,39 +24,31 @@ const pageData = {
 
     A adoção dessas medidas promove uma computação mais verde, alinhando inovação tecnológica
     à responsabilidade ambiental.`,
-        keywords: ['IoT hídrico', 'sensores inteligentes', 'machine learning', 'automação']
 },
 
     biodiversidade: {
         title: 'Tecnologia para Conservação da Biodiversidade',
         description: 'Uso de visão computacional, drones e big data para monitoramento de ecossistemas e proteção de espécies.',
-        keywords: ['visão computacional', 'drones', 'big data ambiental', 'monitoramento']
     },
     agricultura: {
         title: 'Agricultura de Precisão e Sustentabilidade',
         description: 'Sistemas embarcados, sensores e algoritmos para agricultura inteligente e sustentável.',
-        keywords: ['agricultura 4.0', 'sensores agrícolas', 'sistemas embarcados', 'precisão']
     },
     residuos: {
         title: 'Gestão Inteligente de Resíduos',
         description: 'Sistemas de rastreamento, otimização de rotas e automação para economia circular e gestão eficiente de resíduos.',
-        keywords: ['rastreamento RFID', 'otimização de rotas', 'automação', 'circular']
     },
     cidades: {
         title: 'Cidades Inteligentes e Mobilidade Sustentável',
         description: 'Infraestrutura de TI, sistemas de transporte inteligente e redes de comunicação para cidades sustentáveis.',
-        keywords: ['smart cities', 'ITS', 'redes 5G', 'mobilidade inteligente']
     },
     educacao: {
         title: 'Tecnologia Educacional Sustentável',
         description: 'Plataformas digitais, realidade virtual e gamificação para educação ambiental e conscientização tecnológica.',
-        keywords: ['e-learning', 'realidade virtual', 'gamificação', 'educação digital']
     },
     politicas: {
         title: 'Governança Digital e Sustentabilidade',
-        description: 'Blockchain, transparência digital e sistemas de governança eletrônica para políticas ambientais eficazes.',
-        keywords: ['blockchain verde', 'e-gov', 'transparência digital', 'governança']
-    }
+        description: 'Blockchain, transparência digital e sistemas de governança eletrônica para políticas ambientais eficazes.',    }
 };
 
 // ===== ELEMENTOS DO DOM =====
