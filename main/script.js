@@ -6,24 +6,10 @@
 // ===== DADOS DAS PÁGINAS =====
 const pageData = {
     energia: {
-        title: 'Green IT',
-        description: 'Como a engenharia de computação contribui para sistemas de energia renovável e otimização do consumo energético em data centers e dispositivos.',
-    },
+        title: 'Green IT',    
+},
     agua: {
         title: 'Gestão e Redução de Consumo de Energia',
-        description: `Na área de computação, a gestão eficiente do consumo de energia é essencial
-    para reduzir custos operacionais e minimizar o impacto ambiental. Essa prática envolve o uso
-    de tecnologias e estratégias sustentáveis que otimizam o desempenho dos equipamentos de TI
-    sem comprometer sua funcionalidade.
-
-    Entre as principais ações estão a utilização de hardware energeticamente eficiente, a
-    virtualização de servidores, o uso consciente de recursos computacionais e o monitoramento
-    contínuo do gasto energético. Além disso, políticas de desligamento automático e o
-    aproveitamento de fontes de energia renovável contribuem para tornar os sistemas mais
-    ecológicos e sustentáveis.
-
-    A adoção dessas medidas promove uma computação mais verde, alinhando inovação tecnológica
-    à responsabilidade ambiental.`,
 },
 
     biodiversidade: {
