@@ -51,3 +51,6 @@ Projeto desenvolvido por estudantes da disciplina, do curso de **Engenharia de C
 Este site busca contribuir para a **conscientização sobre práticas sustentáveis**, reforçando a importância do desenvolvimento responsável dentro da Engenharia e no cotidiano.  
 
 ---
+
+##  TEMA DO SITE
+BRANCO
